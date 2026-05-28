@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="AccountingIGoods/Warehouse.csproj" Id="78238c45-b9ba-4ef6-98a7-12fd102b942a" />
+  <Project Path="Array/Array.csproj" Id="339388f3-ebde-407b-be62-e9f704c71655" />
+  <Project Path="Cafe/Cafe.csproj" Id="6c18ebc0-d56f-4070-9d73-efc4d5dd9e9b" />
+  <Project Path="Counter/Counter.csproj" Id="50c98585-2d50-4f69-aabd-fba72f52267d" />
+  <Project Path="Emploee/Emploee.csproj" Id="2ff63ab8-49b2-44e1-a1e5-cc6623c02ab0" />
+  <Project Path="Employee/Employee.csproj" />
+  <Project Path="InternetShop/InternetShop.csproj" Id="0bf72d4f-7636-43fc-9bcd-9a700aa326eb" />
+  <Project Path="Library/Library.csproj" Id="879bdcaf-f629-4be1-9b6f-8b39169b4c0c" />
+  <Project Path="OrderStatus/OrderStatus.csproj" Id="bc355826-ffb5-43fa-a196-fe065d145c53" />
+  <Project Path="Polindrom/Polindrom.csproj" Id="0a2e6a74-265e-49ea-b667-2a0bf3d7dc96" />
+  <Project Path="Rectangle/Rectangle.csproj" Id="aff4823b-c808-417b-90d5-c54d088dbda7" />
+  <Project Path="TemperatureConverter/TemperatureConverter.csproj" Id="2a554b69-2fe5-40a0-ac73-b6d55eb7d190" />
+  <Project Path="Work1/BankAccaunt.csproj" />
+</Solution>
