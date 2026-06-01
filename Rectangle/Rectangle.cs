@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Formats.Asn1;
 using System.Text;
 
 namespace Rectangle
@@ -7,8 +8,8 @@ namespace Rectangle
     internal class Rectangle
     {
 
-        decimal high;
-        decimal width;
+        public decimal high;
+        public decimal width;
         decimal area;
         public Rectangle(decimal high, decimal width)
         {
@@ -17,11 +18,14 @@ namespace Rectangle
             this.width = width;
 
         }
-        public decimal GetArea()
+        public decimal GetArea
         {
+            get
+            {
 
-            return high * width;
+                return this.high * this.width;
 
+            }
         }
         public decimal GetPerimeter()
         {

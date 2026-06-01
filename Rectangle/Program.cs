@@ -6,7 +6,7 @@
         {
 
             Rectangle rec = new Rectangle(5, 20);
-            Console.WriteLine($"Площадь = {rec.GetArea()}");
+            Console.WriteLine($"Площадь = {rec.GetArea}");
             Console.WriteLine($"Периметр = {rec.GetPerimeter()}");
 
         }

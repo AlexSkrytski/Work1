@@ -1,7 +1,9 @@
 <Solution>
   <Project Path="AccountingIGoods/Warehouse.csproj" Id="78238c45-b9ba-4ef6-98a7-12fd102b942a" />
   <Project Path="Array/Array.csproj" Id="339388f3-ebde-407b-be62-e9f704c71655" />
+  <Project Path="Bank/Bank.csproj" Id="f64075de-70bf-4e62-91f6-eeb53070a1b3" />
   <Project Path="Cafe/Cafe.csproj" Id="6c18ebc0-d56f-4070-9d73-efc4d5dd9e9b" />
+  <Project Path="Collection1/Collection1.csproj" Id="3c6cbe87-2b53-4e41-91e8-153189f4d3ee" />
   <Project Path="Counter/Counter.csproj" Id="50c98585-2d50-4f69-aabd-fba72f52267d" />
   <Project Path="Emploee/Emploee.csproj" Id="2ff63ab8-49b2-44e1-a1e5-cc6623c02ab0" />
   <Project Path="Employee/Employee.csproj" />
@@ -11,5 +13,13 @@
   <Project Path="Polindrom/Polindrom.csproj" Id="0a2e6a74-265e-49ea-b667-2a0bf3d7dc96" />
   <Project Path="Rectangle/Rectangle.csproj" Id="aff4823b-c808-417b-90d5-c54d088dbda7" />
   <Project Path="TemperatureConverter/TemperatureConverter.csproj" Id="2a554b69-2fe5-40a0-ac73-b6d55eb7d190" />
+  <Project Path="Throw/Throw.csproj" Id="3b435051-4bc9-4924-84f1-b4de8506c60a" />
+  <Project Path="Throw2/Throw2.csproj" Id="ec6995af-3f26-4fdf-839a-47de5aa7650a" />
+  <Project Path="TryCatch/TryCatch.csproj" Id="a8137564-2cde-4088-aa26-6f34dddd6f7c" />
+  <Project Path="TryCatchTask1/TryCatchTask1.csproj" Id="4ef04552-5e7b-4adb-8cec-632d9dfbba4f" />
+  <Project Path="TryCatchTask3/TryCatchTask3.csproj" Id="15782895-e591-4dc2-90c0-69d146c047f5" />
+  <Project Path="TryCathTask2/TryCathTask2.csproj" Id="ee380a01-8181-4eb9-8cf7-ffe7ff27335e" />
+  <Project Path="Users/Users.csproj" Id="f67accd7-9a80-40a0-b6d0-aaf6a7e60784" />
+  <Project Path="Vehicle/Vehicle.csproj" Id="a1429478-7a21-4f44-af36-87728ff30cc1" />
   <Project Path="Work1/BankAccaunt.csproj" />
 </Solution>
