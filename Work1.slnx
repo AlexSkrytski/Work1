@@ -1,12 +1,30 @@
 <Solution>
+  <Project Path="AbstaraktClass3/AbstractClass3.csproj" Id="8eea7fad-d748-4133-afde-4ff5d67359dc" />
+  <Project Path="AbstractClass/AbstractClass1.csproj" Id="459d7849-09a0-4160-b725-a5347add9162" />
+  <Project Path="AbstractClass2/AbstractClass2.csproj" Id="00fa5715-2e81-46c4-bebb-5c1c8f2b3323" />
+  <Project Path="AbstractClass4/AbstractClass4.csproj" Id="16ffa67e-14a8-4cf8-8dda-0e9be6f8d582" />
+  <Project Path="AbstractClass5/AbstractClass5.csproj" Id="3fff2d34-d39a-4cfa-8c22-48bf980d8ec7" />
+  <Project Path="AbstractClass6/AbstractClass6.csproj" Id="527a33c8-3118-4414-99df-4031ce086e61" />
+  <Project Path="AbstractClass7/AbstractClass7.csproj" Id="6db448fb-8e52-49a0-b408-c5593de9e785" />
   <Project Path="AccountingIGoods/Warehouse.csproj" Id="78238c45-b9ba-4ef6-98a7-12fd102b942a" />
   <Project Path="Array/Array.csproj" Id="339388f3-ebde-407b-be62-e9f704c71655" />
   <Project Path="Bank/Bank.csproj" Id="f64075de-70bf-4e62-91f6-eeb53070a1b3" />
   <Project Path="Cafe/Cafe.csproj" Id="6c18ebc0-d56f-4070-9d73-efc4d5dd9e9b" />
   <Project Path="Collection1/Collection1.csproj" Id="3c6cbe87-2b53-4e41-91e8-153189f4d3ee" />
+  <Project Path="Collection2/Collection2.csproj" Id="13b8fe26-c639-443d-ba88-37fec1b7656a" />
+  <Project Path="Collection3/Collection3.csproj" Id="7990ed35-5663-4ef5-945d-2c2a3c266560" />
+  <Project Path="Collection4/Collection4.csproj" Id="12926830-c4d1-43e1-9402-ec6cc53f23ca" />
+  <Project Path="Collection5/Collection5.csproj" Id="fa42124c-7334-4330-980d-5d1b7852adef" />
+  <Project Path="Collection6/Collection6.csproj" Id="1d063739-3f4a-4eb2-ae70-b271cdd0c94d" />
+  <Project Path="Collection7/Collection7.csproj" Id="ac36bd01-3de1-48ec-b5c0-c001c5febde9" />
+  <Project Path="Collection8/Collection8.csproj" Id="84de690e-451d-4739-b205-053bd6e988c9" />
+  <Project Path="Collection9/Collection9.csproj" Id="98d3363c-f0dc-47a1-a050-5886516eb25d" />
+  <Project Path="Controller10/Collection10.csproj" Id="92157f63-ac36-4328-b9ca-c63f7e64e179" />
   <Project Path="Counter/Counter.csproj" Id="50c98585-2d50-4f69-aabd-fba72f52267d" />
   <Project Path="Emploee/Emploee.csproj" Id="2ff63ab8-49b2-44e1-a1e5-cc6623c02ab0" />
   <Project Path="Employee/Employee.csproj" />
+  <Project Path="Interface1/Interface1.csproj" Id="60deea9b-270b-432b-821a-1a78b4877f22" />
+  <Project Path="Interface2/Interface2.csproj" Id="1c0bff94-71e0-473a-996e-1b629f969a60" />
   <Project Path="InternetShop/InternetShop.csproj" Id="0bf72d4f-7636-43fc-9bcd-9a700aa326eb" />
   <Project Path="Library/Library.csproj" Id="879bdcaf-f629-4be1-9b6f-8b39169b4c0c" />
   <Project Path="OrderStatus/OrderStatus.csproj" Id="bc355826-ffb5-43fa-a196-fe065d145c53" />
